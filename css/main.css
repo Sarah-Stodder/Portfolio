@@ -284,6 +284,9 @@ figure {
   margin: 0
 }
 
+#profile{ 
+  max-width: 130% !important;
+}
 img, object, embed, video {
   max-width: 100%;
   _width: 100%
